@@ -1,0 +1,148 @@
+/* #Color Panel
+================================================== */
+#switch {
+background: #fff;
+position: fixed;
+display: none;
+top: 176px;
+z-index: 99999;
+width:200px;
+margin-left: -100px;
+border-radius: 0 5px 5px 0;
+-webkit-box-shadow: 0px 0px 4px 0px rgba(51, 51, 51, 0.2);
+box-shadow: 0px 0px 4px 0px rgba(51, 51, 51, 0.2);}
+#switch p {margin-bottom: 10px; padding-bottom: 15px; padding-top: 5px; border-bottom:#ededed 1px solid; }
+#switch ul li {text-transform:uppercase;margin-bottom:0;font-size:12px; display:inline-block;}
+
+	#show {
+		z-index: 99999;
+		margin-left:0px;
+		position:fixed;left:0;
+		top:176px;
+		background: rgba(40,40,40,.8);
+		border-radius:0 3px 3px 0;
+		margin-top:10px;
+		padding: 20px 5px ;
+		cursor: pointer;
+	}
+#hide {cursor:pointer;line-height:13px;margin-bottom:0px;font-size: 12px;margin-bottom: 0px;}
+#setting {
+	height: 50px;
+	background-image: url('../images/option_panel.png');
+	background-repeat:no-repeat;
+	background-size:20px 50px;
+	width: 20px;
+}
+
+.wrap_pattern,.switchlayout {margin-bottom:10px;}
+.wrap_pattern p {margin-bottom: 5px;}
+.content-switcher{
+padding: 16px;
+overflow: hidden;
+}
+.content-switcher .m-btn{padding: 5px 10px;
+font-size: 12px;
+min-width: 70px;
+}
+
+.button.small.color.switch {font-size: 12px;text-transform: none;width: 40px;margin: 5px 0px; font-weight: normal;
+text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.3); letter-spacing: 0;}
+
+#hide {
+	position:absolute;
+	background-color:#fff;
+	height:30px;
+	width:30px;
+	top:7px;
+	right:7px;
+	border-radius: 0 5px 0px 0;
+	
+}
+
+#hide img {
+	height:30px;
+	width:30px;
+	opacity:0.3;
+	transition:all 0.3s ease 0s;
+	-moz-transition:all 0.3s ease 0s;
+	-webkit-transition:all 0.3s ease 0s;
+	-o-transition:all 0.3s ease 0s;
+}
+
+#hide img:hover {
+	opacity:0.7;
+}
+
+
+#switch .button {
+	border-radius: 2px;
+    cursor: pointer;
+    display: inline-block;
+    margin-left:5px;
+    margin-top:5px;
+	height: 15px;
+    padding: 5px;
+    width: 15px;
+	color:#000;
+}
+#switch .button-2 {
+	border-radius: 2px;
+    cursor: pointer;
+    display: inline-block;
+    margin-top:5px;
+	height: 32px;
+	font-size:10px;
+    line-height:32px;
+    width: 80px;
+	color:#323232;
+	background:#f1f1f1;
+    -webkit-transition: all 300ms linear;
+    -moz-transition: all 300ms linear;
+    -o-transition: all 300ms linear;
+    -ms-transition: all 300ms linear;
+    transition: all 300ms linear; 
+}
+#switch .button-2:hover {
+	color:#fff;
+	background:#323232;
+}
+
+#switch p {
+	margin-top:5px;
+	font-size:15px;
+}
+
+.styled-select select {
+   background:#f5f5f5;
+   border:#ededed 1px solid;
+   width: 270px;
+   padding: 5px;
+   font-size: 13px;
+   line-height: 1;
+   outline:none;
+   border-radius: 3px;
+   height: 34px;
+   -webkit-appearance: none;
+   margin:10px 0;
+}
+
+.home-options {
+	position:relative;
+	width:100%;
+	margin-top:10px;
+   text-align:center;
+   margin:0 auto;
+}
+.home-options a{
+   background:#f5f5f5;
+   border:#ededed 1px solid;
+   font-size: 13px;
+   padding: 5px 30px;
+   line-height:40px;
+   outline:none;
+   text-align:center;
+   color:#000;
+}
+.home-options a:hover{
+   background:#f1f1f1;
+}

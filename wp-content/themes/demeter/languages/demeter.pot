@@ -1,0 +1,656 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-06 07:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: archive.php:38 archive.php:59 index.php:42 index.php:64 search.php:42
+#: search.php:64 page-templates/template-blog-sidebar.php:80
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: archive.php:79 index.php:83 search.php:85
+#: page-templates/template-blog-sidebar.php:124
+#: page-templates/template-blog.php:106
+msgid "Prev"
+msgstr ""
+
+#: archive.php:80 index.php:84 search.php:86
+#: page-templates/template-blog-sidebar.php:126
+#: page-templates/template-blog.php:108
+msgid "Next"
+msgstr ""
+
+#: comments.php:21
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:38
+msgid ""
+"<h6>LEAVE A REPLY</h6><p>Your email address will not be published. Required "
+"fields are marked *</p> "
+msgstr ""
+
+#: comments.php:40
+msgid "Name*"
+msgstr ""
+
+#: comments.php:41
+msgid "Email*"
+msgstr ""
+
+#: comments.php:44
+msgid "Comment*"
+msgstr ""
+
+#: comments.php:45
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:64
+msgid "Primary Navigation <b>Only Use For All Other Pages</b>"
+msgstr ""
+
+#: functions.php:65
+msgid "Menu Home <b>Only Use For Home Page</b>"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Open Sans, translate this to 'off'. Do not translate into your own language.
+#: functions.php:93
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:98
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language.
+#: functions.php:103
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Satisfy, translate this to 'off'. Do not translate into your own language.
+#: functions.php:108
+msgctxt "Satisfy font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Courgette, translate this to 'off'. Do not translate into your own language.
+#: functions.php:113
+msgctxt "Courgette font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:211
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:213
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:301
+msgid "type to search and hit enter"
+msgstr ""
+
+#: functions.php:322 taxonomy-categories.php:22
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:326
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:386
+msgid "Extra id name"
+msgstr ""
+
+#: functions.php:392
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a id name and then refer to it in your css file."
+msgstr ""
+
+#: functions.php:400
+msgid "Section Sub Title"
+msgstr ""
+
+#: functions.php:406
+msgid "Section Sub Title, Leave a blank do not show frontend."
+msgstr ""
+
+#: functions.php:414
+msgid "Section Title"
+msgstr ""
+
+#: functions.php:420
+msgid "Title of Section, Leave a blank do not show frontend."
+msgstr ""
+
+#: functions.php:450
+msgid "Overlay Opacity"
+msgstr ""
+
+#: functions.php:456
+msgid "Enter Number Opacity : 0.77, 0.2, 0.4, etc..."
+msgstr ""
+
+#: functions.php:468
+msgid "Overlay Color"
+msgstr ""
+
+#: functions.php:474
+msgid "Background Overlay Color, Default: #f9f9f9 "
+msgstr ""
+
+#: functions.php:482
+msgid "Show or Hide Overlay"
+msgstr ""
+
+#: functions.php:488 functions.php:510
+msgid "No"
+msgstr ""
+
+#: functions.php:490 functions.php:512
+msgid "Yes"
+msgstr ""
+
+#: functions.php:494
+msgid "Select Show or Hide, Default: No "
+msgstr ""
+
+#: functions.php:504
+msgid "Fullwidth"
+msgstr ""
+
+#: functions.php:516
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+#: functions.php:530
+msgid "Column Title"
+msgstr ""
+
+#: functions.php:536
+msgid "Title of column"
+msgstr ""
+
+#: functions.php:546 functions.php:552
+msgid "Container Class"
+msgstr ""
+
+#: functions.php:562
+msgid "Container id"
+msgstr ""
+
+#: functions.php:568
+msgid "Container ID, Only use for content slider."
+msgstr ""
+
+#: functions.php:578
+msgid "Column Effect"
+msgstr ""
+
+#: functions.php:584
+msgid "Bottom Move"
+msgstr ""
+
+#: functions.php:586
+msgid "Top Move"
+msgstr ""
+
+#: functions.php:588
+msgid "None"
+msgstr ""
+
+#: functions.php:592
+msgid "Select Effect for column, Default: Move Bottom"
+msgstr ""
+
+#: page.php:24 single-portfolio.php:12 page-templates/template-fullwidth.php:17
+msgid "scroll"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: single-portfolio.php:27
+msgid "<div class=\"project-arrow-left\"><p>prev</p></div>"
+msgstr ""
+
+#: single-portfolio.php:28
+msgid "<div class=\"project-arrow-right\"><p>next</p></div>"
+msgstr ""
+
+#: single.php:23 single.php:118
+msgid "Author: "
+msgstr ""
+
+#: single.php:39 single.php:133
+msgid "Comments "
+msgstr ""
+
+#: single.php:51 single.php:141
+msgid "prev"
+msgstr ""
+
+#: single.php:52 single.php:142
+msgid "next"
+msgstr ""
+
+#: taxonomy-categories.php:10
+#, php-format
+msgid "Category Archives Portfolio: %s"
+msgstr ""
+
+#: framework/sample-config.php:115
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: framework/sample-config.php:120
+msgid "Animation Off?"
+msgstr ""
+
+#: framework/sample-config.php:121
+msgid ""
+"You can On or Off animation effects for elements on page when scroll down."
+msgstr ""
+
+#: framework/sample-config.php:127
+msgid "Google Map API Key"
+msgstr ""
+
+#: framework/sample-config.php:128
+msgid ""
+"Add your google map api key, <a href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key\" target=\"_blank\">Get API "
+"Key</a>"
+msgstr ""
+
+#: framework/sample-config.php:136
+msgid "Preload Settings"
+msgstr ""
+
+#: framework/sample-config.php:141
+msgid "Show Preload?"
+msgstr ""
+
+#: framework/sample-config.php:142
+msgid "Option Show Preload"
+msgstr ""
+
+#: framework/sample-config.php:154
+msgid "Logo Preload"
+msgstr ""
+
+#: framework/sample-config.php:157
+msgid "Upload your logo preload, Recommended size: 200px x 28px"
+msgstr ""
+
+#: framework/sample-config.php:164
+msgid "Text number Color"
+msgstr ""
+
+#: framework/sample-config.php:165
+msgid "Pick the Text Preload color for the theme (default: #212121)."
+msgstr ""
+
+#: framework/sample-config.php:172
+msgid "Background Color"
+msgstr ""
+
+#: framework/sample-config.php:173
+msgid "Pick the Background Preload color for the theme (default: #FFFFFF)."
+msgstr ""
+
+#: framework/sample-config.php:183
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+#: framework/sample-config.php:189
+msgid "Custom Favicon"
+msgstr ""
+
+#: framework/sample-config.php:192
+msgid "Upload your Favicon."
+msgstr ""
+
+#: framework/sample-config.php:205
+msgid "Logo static"
+msgstr ""
+
+#: framework/sample-config.php:208
+msgid "Upload your logo static."
+msgstr ""
+
+#: framework/sample-config.php:209
+msgid "Recommended size: Height: 20px and Width: 145px"
+msgstr ""
+
+#: framework/sample-config.php:215
+msgid "Fix Width Logo static, Default: 145px"
+msgstr ""
+
+#: framework/sample-config.php:216
+msgid "Input Width logo"
+msgstr ""
+
+#: framework/sample-config.php:223
+msgid "Fix Height Logo static, Default: 20px"
+msgstr ""
+
+#: framework/sample-config.php:224
+msgid "Input Height Logo"
+msgstr ""
+
+#: framework/sample-config.php:237
+msgid "Logo scroll"
+msgstr ""
+
+#: framework/sample-config.php:240
+msgid "Upload your logo scroll."
+msgstr ""
+
+#: framework/sample-config.php:241
+msgid "Recommended size: Height: 16px and Width: 116px"
+msgstr ""
+
+#: framework/sample-config.php:247
+msgid "Fix Width Logo scroll, Default: 116px"
+msgstr ""
+
+#: framework/sample-config.php:248
+msgid "Input Width logo scroll"
+msgstr ""
+
+#: framework/sample-config.php:255
+msgid "Fix Height Logo scroll, Default: 16px"
+msgstr ""
+
+#: framework/sample-config.php:256
+msgid "Input Height Logo scroll"
+msgstr ""
+
+#: framework/sample-config.php:269
+msgid "Apple Touch Icon 57x57"
+msgstr ""
+
+#: framework/sample-config.php:272
+msgid "Upload your Apple touch icon 57x57."
+msgstr ""
+
+#: framework/sample-config.php:280
+msgid "Apple Touch Icon 72x72"
+msgstr ""
+
+#: framework/sample-config.php:283
+msgid "Upload your Apple touch icon 72x72."
+msgstr ""
+
+#: framework/sample-config.php:291
+msgid "Apple Touch Icon 114x114"
+msgstr ""
+
+#: framework/sample-config.php:294
+msgid "Upload your Apple touch icon 114x114."
+msgstr ""
+
+#: framework/sample-config.php:303
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/sample-config.php:308
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/sample-config.php:310
+msgid ""
+"Select Blog Layout for all page default: index, demeterve, category, author, "
+"search, tag ,..."
+msgstr ""
+
+#: framework/sample-config.php:320
+msgid "Single Blog Layout"
+msgstr ""
+
+#: framework/sample-config.php:322
+msgid "Select Single Blog Layout for Single Blog Page."
+msgstr ""
+
+#: framework/sample-config.php:332
+msgid "Button Text For Post"
+msgstr ""
+
+#: framework/sample-config.php:333
+msgid "Input Button Text"
+msgstr ""
+
+#: framework/sample-config.php:341
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/sample-config.php:346
+msgid "Portfolio Ajax Load ?"
+msgstr ""
+
+#: framework/sample-config.php:348
+msgid ""
+"Use for Portfolio in home page, Load Ajax Content or Link out single "
+"Portfolio."
+msgstr ""
+
+#: framework/sample-config.php:360
+msgid "404 Settings"
+msgstr ""
+
+#: framework/sample-config.php:365
+msgid "404 Title"
+msgstr ""
+
+#: framework/sample-config.php:366
+msgid "Input 404 Title"
+msgstr ""
+
+#: framework/sample-config.php:373
+msgid "404 Content"
+msgstr ""
+
+#: framework/sample-config.php:374
+msgid "Enter 404 Content"
+msgstr ""
+
+#: framework/sample-config.php:381
+msgid "Button Back Home"
+msgstr ""
+
+#: framework/sample-config.php:382
+msgid "Text Button Go To Home."
+msgstr ""
+
+#: framework/sample-config.php:390
+msgid "Social Settings"
+msgstr ""
+
+#: framework/sample-config.php:395
+msgid "Facebook Url"
+msgstr ""
+
+#: framework/sample-config.php:402
+msgid "Google+ Url"
+msgstr ""
+
+#: framework/sample-config.php:409
+msgid "Twitter Url"
+msgstr ""
+
+#: framework/sample-config.php:416
+msgid "Github Url"
+msgstr ""
+
+#: framework/sample-config.php:423
+msgid "Youtube Url"
+msgstr ""
+
+#: framework/sample-config.php:430
+msgid "Linkedin Url"
+msgstr ""
+
+#: framework/sample-config.php:437
+msgid "Dribbble Url"
+msgstr ""
+
+#: framework/sample-config.php:444
+msgid "Behance Url"
+msgstr ""
+
+#: framework/sample-config.php:451
+msgid "Instagram Url"
+msgstr ""
+
+#: framework/sample-config.php:458
+msgid "Skype Url"
+msgstr ""
+
+#: framework/sample-config.php:466
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/sample-config.php:471
+msgid "Footer Text"
+msgstr ""
+
+#: framework/sample-config.php:472
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/sample-config.php:479
+msgid "Styling Options"
+msgstr ""
+
+#: framework/sample-config.php:484
+msgid "Theme Style"
+msgstr ""
+
+#: framework/sample-config.php:485
+msgid "Select Theme Style : Dark Or Light"
+msgstr ""
+
+#: framework/sample-config.php:486
+msgid "Use Style Dark Or Style Light for full website."
+msgstr ""
+
+#: framework/sample-config.php:496
+msgid "Theme Main Color"
+msgstr ""
+
+#: framework/sample-config.php:497
+msgid "Pick the main color for the theme (default: #0096a7)."
+msgstr ""
+
+#: framework/sample-config.php:504
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/sample-config.php:505
+msgid "Pick a background color for the footer (default: #ffffff)."
+msgstr ""
+
+#: framework/sample-config.php:512
+msgid "Footer  Color"
+msgstr ""
+
+#: framework/sample-config.php:513
+msgid "Pick a  color for the footer (default: #212121)."
+msgstr ""
+
+#: framework/sample-config.php:522
+msgid "Body Font"
+msgstr ""
+
+#: framework/sample-config.php:523
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/sample-config.php:536
+msgid "CSS Code"
+msgstr ""
+
+#: framework/sample-config.php:537
+msgid "Paste your CSS code here."
+msgstr ""
+
+#. Name of the template
+msgid "Blog With Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Grid"
+msgstr ""
+
+#. Name of the template
+msgid "Canvas Page"
+msgstr ""
+
+#: page-templates/template-canvas-page.php:15
+#: page-templates/template-canvas.php:15
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#. Name of the template
+msgid "Canvas"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the theme
+msgid "Demeter"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"In 2016, our default theme lets you create a responsive magazine website "
+"with a sleek, modern design. Feature your favorite homepage content in "
+"either a grid or a slider. Use the three widget areas to customize your "
+"website, and change your content's layout with a full-width page template "
+"and a contributor page to show off your authors. Creating a magazine website "
+"with WordPress has never been easier."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.vegatheme.com/demeter"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes Team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""
